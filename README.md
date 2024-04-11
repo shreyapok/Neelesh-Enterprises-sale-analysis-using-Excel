@@ -2,7 +2,8 @@
 **Project Objective** :Neelesh-Enterprises wants to create an annual sales report for 2023. So that, the owner of the Shop can understand their customers and grow more sales in 2024.
 
 **Process**
-   •**Dataset & Questions**__:Dataset used:Neelesh-Enterprises Data
+
+•**Dataset & Questions**__:Dataset used:Neelesh-Enterprises Data
                         Questions (KPIs): •Compare the sales and orders using single chart.
                                           •Which month got the highest sales and orders?
                                           •Who purchased more - Men or Women?
@@ -11,12 +12,18 @@
                                           •Relation between age and gender based on number of orders.
                                           •Which Channel is contributing maximum to the sales?
                                           •Highest selling category?
-  **•Data Cleaning:**__Verify data for any missing values and anomalies, and sort out the same.
-  •**Data Processing**__: Made sure data is consistent and clean with respect to data type, data format and values used.
-  •**Data Analysis:**__ Created pivot tables according to the questions asked.
-  •**Excel Dashboard**__: •Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
-  •**Insight**__
-  •**Final Conclusion**__
+                                          
+**•Data Cleaning:**__Verify data for any missing values and anomalies, and sort out the same.
+
+•**Data Processing**__: Made sure data is consistent and clean with respect to data type, data format and values used.
+
+•**Data Analysis:**__ Created pivot tables according to the questions asked.
+
+•**Excel Dashboard**__: •Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
+
+•**Insight**__
+
+•**Final Conclusion**__
    
 **Dashboard**
 ![Neelesh](https://github.com/shreyapok/Neelesh-Enterprises-sale-analysis-using-Excel/assets/162877795/56e4c056-c06c-4246-8993-b62e7290a528)
