@@ -5,12 +5,19 @@
 
 •**Dataset & Questions**__:Dataset used:Neelesh-Enterprises Data
                         Questions (KPIs): •Compare the sales and orders using single chart.
+                        
                                           •Which month got the highest sales and orders?
+                                          
                                           •Who purchased more - Men or Women?
+                                          
                                           •What are different order status in 2023?
+                                          
                                           •List top 10 states contributingto the sales?
+                                          
                                           •Relation between age and gender based on number of orders.
+                                          
                                           •Which Channel is contributing maximum to the sales?
+                                          
                                           •Highest selling category?
                                           
 **•Data Cleaning:**__Verify data for any missing values and anomalies, and sort out the same.
@@ -30,8 +37,11 @@
 
 **Project Insight**
 •	Women are more likely to buy more than men. (~ 64 %)
+
 •	Top 3 states comprises of MH, KR, and UP. 
+
 •	Adult age group is contributing to more to the sales. ( ~50 %) 
+
 •	Amazon, flipkart and myntra contributing to max sales. (80%)
 
 **Final Conclusion:**
